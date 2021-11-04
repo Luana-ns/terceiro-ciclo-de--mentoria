@@ -1,4 +1,4 @@
-# <p align="center"> ✨ Olá! Seja bem vindo! 😃✨ </p>
+# <p align="center">  Olá! Seja bem vindo! 😃 </p>
 ## <p align="center"> Este é meu terceiro ciclo de mentoria! 🚀 </p>
 ## <p align="center"> Aqui você pode encontrar alguns projetos que estão sendo realizados durante este ciclo. </p>
 <p align="center"> 
